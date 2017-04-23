@@ -11,9 +11,6 @@ li {
 }
 .container {
     border: 1px solid blue;
-    background-color: cornsilk;
+    background-color:snow;
     line-height: 2em;
-}
-.gitTaks {
-    background-color: aqua;
 }
