@@ -1,0 +1,19 @@
+main {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size : larger;
+    display: inline-block;
+    width: 90%;
+}
+li {
+    list-style: none;
+}
+.container {
+    border: 1px solid blue;
+    background-color: cornsilk;
+    line-height: 2em;
+}
+.gitTaks {
+    background-color: aqua;
+}
